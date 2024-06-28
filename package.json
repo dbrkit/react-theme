@@ -1,7 +1,7 @@
 {
   "name": "@dbrkit/react-theme",
   "description": "",
-  "version": "0.0.1-beta11",
+  "version": "0.0.1-beta12",
   "main": "./dist/index.cjs.js",
   "types": "./dist/index.d.ts",
   "files": [
@@ -26,10 +26,10 @@
   "license": "ISC",
   "dependencies": {
     "color": "^4.2.3",
-    "deepmerge": "^4.3.1",
-    "react": "^18.2.0"
+    "deepmerge": "^4.3.1"
   },
   "peerDependencies": {
+    "react": "^18.2.0",
     "color": "^4.2.3",
     "@types/color": "^3.0.6"
   },
